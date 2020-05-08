@@ -1,6 +1,6 @@
-from ex_1func import factorial
-from ex_1func import butterfly
-from ex_1func import vowelcount
+from func import factorial
+from func import butterfly
+from func import vowelcount
 
 def test_factorial():
     assert factorial(3) == 6‬
