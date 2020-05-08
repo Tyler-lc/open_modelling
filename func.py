@@ -1,12 +1,8 @@
 def factorial(x):
-    
     """ 
-    
     this function returns the factorial of a number x
     to store the value in a variable use value = factorial(x)
-    
     """
-    
     f = 1  
     if x == 0:
         return 1
