@@ -1,6 +1,6 @@
-from func import fattoriale
-from func import butterfly
-from func import vowelcount
+from exercise import fattoriale
+from exercise import butterfly
+from exercise import vowelcount
 
 def test_fattoriale():
     assert fattoriale(3) == 6‬
