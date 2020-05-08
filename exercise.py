@@ -5,7 +5,7 @@ def fattoriale(x):
     """
     f = 1  
     if x == 0:
-        return 1
+        return f
     
     else:
         for i in range(x): 
