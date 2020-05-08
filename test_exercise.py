@@ -5,4 +5,4 @@ def test_butterfly():
     assert butterfly("abyss") == "abyff"
 
 def test_vowelcount():
-    assert vowelcount("abyss", 1) == 1
+    assert vowelcount("abyss", 1) == 2
