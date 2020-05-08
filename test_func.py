@@ -1,4 +1,4 @@
-from func import factorial
+from func import fattoriale
 from func import butterfly
 from func import vowelcount
 
