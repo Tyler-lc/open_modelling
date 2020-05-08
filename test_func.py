@@ -3,7 +3,7 @@ from ex_1func import butterfly
 from ex_1func import vowelcount
 
 def test_factorial():
-    assert factorial(9) == 362880‬
+    assert factorial(3) == 6‬
 
 def test_butterfly():
     assert butterfly("abyss") == "abyff"
