@@ -9,7 +9,7 @@ def fattoriale(x):
     
     else:
         for i in range(x): 
-            f = f * (i+1);
+            f = f * (i + 1);
         return f
     
 
