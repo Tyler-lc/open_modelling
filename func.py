@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri May  8 9:15:34 2020
-
-@author: casamassima
-"""
-
 def factorial(x):
     
     """ 
