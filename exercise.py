@@ -13,6 +13,18 @@ def fattoriale(x):
         return f
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 def butterfly(s):
     """ converts a string into butterfly language. Every S is converted into an F.
     For example: butterfly("abyss") returns abyff
