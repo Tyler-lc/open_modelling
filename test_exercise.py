@@ -7,4 +7,4 @@ def test_butterfly():
 
 
 def test_vowelcount():
-    assert vowelcount("abyss",1) == 3
+    assert vowelcount("abyss", 1) == 3
